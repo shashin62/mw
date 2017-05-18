@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Page Not Found</title>
+	<link rel="canonical" href="http://www.makewhale.com/404.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+
+        * {
+            line-height: 1.2;
+            margin: 0;
+        }
+
+        html {
+            color: #888;
+            display: table;
+            font-family: sans-serif;
+            height: 100%;
+            text-align: center;
+            width: 100%;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+            margin: 2em auto;
+        }
+
+        h1 {
+            color: #555;
+            font-size: 2em;
+            font-weight: 400;
+        }
+
+        p {
+            margin: 0 auto;
+            font-size: 17px;
+            margin-top: 30px;
+        }
+        
+        p a{
+        	color: #30BAA4;
+        	text-decoration: none;
+        	margin-top:30px;
+        	display: block;	
+        }
+        p a span{
+        	border-bottom: 2px solid #30BAA4;
+        }
+
+
+@media only screen and (max-width: 768px) {
+	
+	 p{
+            	width: 90%;
+            }
+	}
+        @media only screen and (max-width: 280px) {
+
+            body {
+                width: 95%;
+            }
+            p{
+            	width: 70%;
+            }
+
+            h1 {
+                font-size: 1.5em;
+                margin: 0 0 0.3em;
+            }
+            .img-responsive{
+            	max-width: 100%;
+            	height: auto;
+            }
+
+        }
+
+    </style>
+</head>
+<body>
+    <img src="img/404.png" class="img-responsive"  />
+    <p> Looks like the page you’re looking for has moved or never existed.<br>
+Make sure you typed the correct URL or followed a valid link<br>
+	<a href="index.php">GO BACK TO <span>HOMEPAGE</span></a>
+</p>
+</body>
+</html>
+<!-- IE needs 512+ bytes: http://blogs.msdn.com/b/ieinternals/archive/2010/08/19/http-error-pages-in-internet-explorer.aspx -->
