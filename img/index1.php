@@ -189,17 +189,17 @@
       <div class="row" style="margin-top:10px;">
         <div class="col-md-12" style="padding:0px;">
           <p class="text-center" style="background-color:#f5f5f5; padding:10px 0px;">
-            <a href="http://www.makewhale.com/newsfeed/news.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/3D_printing_industry.png" alt="" style="padding-right: 30px;" /></a>
-            <a href="http://www.makewhale.com/newsfeed/news.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/newsfeed/news.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/3D_printing_industry.png" alt="" style="padding-right: 30px;" /></a>
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/newsfeed/news.php" target="_blank">
             <img src="img/ADLogo.png" alt="" style="padding-right: 30px;" />
             </a>
-            <a href="http://www.makewhale.com/newsfeed/news.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/newsfeed/news.php" target="_blank">
             <img src="img/Brand_BrownPaperBag_289.png" alt="" style="padding-right: 30px;" />
             </a>
-            <a href="http://www.makewhale.com/newsfeed/news.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/newsfeed/news.php" target="_blank">
            <img src="img/Mint.png" alt="" style="padding-right: 30px;" />
             </a>
-			 <a href="http://www.makewhale.com/newsfeed/news.php" target="_blank">
+			 <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/newsfeed/news.php" target="_blank">
            <img src="img/vogue.png" alt="" style="padding-right: 30px;" />
             </a>
             </p>

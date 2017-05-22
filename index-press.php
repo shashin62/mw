@@ -251,17 +251,17 @@
         <div class="col-md-12" style="padding:0px;">
 		<h4 class=" text-center banner-overlay-heading" style="color: #000 ! important; background-color: #ededed; width: 100%; margin-bottom: 0px !important; padding: 10px 0 10px 0;">MEDIA</h4>
           <p class="text-center" style="background-color:#ededed; padding:10px 0px; margin-bottom: 0px !important; border-top: 1px solid #cacaca;">
-            <a href="http://www.makewhale.com/test1/test.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/3D_printing_industry.png" alt="" style="padding-right: 30px;" /></a>
-            <a href="http://www.makewhale.com/test1/test.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/test1/test.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/3D_printing_industry.png" alt="" style="padding-right: 30px;" /></a>
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/test1/test.php" target="_blank">
             <img src="img/ADLogo.png" alt="" style="padding-right: 30px;" />
             </a>
-            <a href="http://www.makewhale.com/test1/test.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/test1/test.php" target="_blank">
             <img src="img/Brand_BrownPaperBag_289.png" alt="" style="padding-right: 30px;" />
             </a>
-            <a href="http://www.makewhale.com/test1/test.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/test1/test.php" target="_blank">
            <img src="img/Mint.png" alt="" style="padding-right: 30px;" />
             </a>
-			 <a href="http://www.makewhale.com/test1/test.php" target="_blank">
+			 <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/test1/test.php" target="_blank">
            <img src="img/vogue.png" alt="" style="padding-right: 30px;" />
             </a>
             </p>

@@ -1,0 +1,209 @@
+/* 	==========================================================================
+	Author: Mvishal Shukla
+	Updated: --/--/--
+	Notes: Hand Coded
+   	========================================================================== */
+   	
+   	
+   	$(window).on("load",function(){
+//   		setLoader();
+   		setOurWorkDivHeight();
+   	});
+   	
+   	$(function(){
+//   		setLoader();
+   		resizeNavigation();
+   		activateSlider();
+   		var hx = $('.p3p').height()+55;
+   		var hs = $(window).height();
+   		var f = hs-hx;
+   		$('#myCarousel').height(f);
+   		$('.navbar-inverse').find(".fa-navicon").css('color','white');
+   		$('.navbar-inverse').find(".fa-times").css('color','white');
+   		setOurWorkDivHeight();
+   		setFilePath();
+   		setFooterBottom();
+   		backTotop();
+   	});
+   	
+$(window).on("resize",function(){
+	setOurWorkDivHeight();
+});
+
+
+function setLoader(){
+	$(".loader").fadeOut();
+}
+   	
+   	
+function resizeNavigation(){
+	$(window).scroll(function() {
+	    if ($(this).scrollTop() > 1){  
+	        $('.navbar-inverse').addClass("sticky");
+	        $('.navbar-brand').find("span#logo").hide();
+	        $('.navbar-brand').find("span#l-text").show();
+	        $('.navbar-inverse').find(".fa-navicon").css('color','#4b4b4b');
+	        $('.navbar-inverse').find(".fa-times").css('color','#4b4b4b');
+	    }
+	    else{
+	        $('.navbar-inverse').removeClass("sticky");
+	       	$('.navbar-brand').find("span#logo").show();
+	        $('.navbar-brand').find("span#l-text").hide();
+			$('.navbar-inverse').find(".fa-navicon").css('color','white');
+			$('.navbar-inverse').find(".fa-times").css('color','white');
+			
+	    }
+	});
+	
+	$(".btnMenu").click(function(){
+		$(this).find('span').toggleClass('fa fa-times').css({'font-size':'20px','font-weight':'lighter'});
+		$(this).find('span').toggleClass('fa fa-navicon');
+		
+//		removeClass('fa-navicon').addClass('fa-times-circle-o');
+	});
+	
+	$(".btn-m").click(function(){
+		$(this).find("span.btn-cls").toggleClass('fa fa-times').css({'font-size':'20px','font-weight':'lighter'});
+		
+		$(this).find('span.btn-cls').toggleClass('fa fa-navicon');
+	});
+	
+	$('.g-img1').click(function(){
+//		alert("hiii vishal");
+	});
+}
+
+function activateSlider(){
+	$('.carousel').carousel({
+	        interval: 5000 //changes the speed
+	    });
+	$('#myCarousel').hover(function(){
+	 	$(".carousel-control.left").show(500);
+	 	$(".carousel-control.right").show(500);
+	 },function(){
+	 	$(".carousel-control.left").hide(200);
+	 	$(".carousel-control.right").hide(200);
+	 });
+	 
+  	$("#myCarousel").swiperight(function() {  
+    		$(this).carousel('prev');  
+		});  
+		$("#myCarousel").swipeleft(function() {  
+	    	$(this).carousel('next');  
+	}); 
+	 
+	 $(window).resize(function(){
+	 	var hx = $('.p3p').height()+55;
+   		var hs = $(window).height();
+   		var f = hs-hx;
+   		$('#myCarousel').height(f);
+	});
+}
+
+function setOurWorkDivHeight(){
+	var dowdivh = $(".outer-img-container").innerHeight();
+	var dowdivw = $(".outer-img-container").innerWidth();
+	$(".inner-img-container").height(dowdivh+"px").width(dowdivw+"px");
+}
+
+function setFilePath(){
+//	========================= [1] ==============================
+	// Span
+	var span = document.getElementsByClassName('upload-path');
+	// Button
+	var uploader = document.getElementsByName('upload');
+	
+	// On change
+	for( item in uploader ) {
+	  // Detect changes
+	  
+	  uploader[item].onchange = function() {
+	    // Echo filename in span
+	    span[0].innerHTML = this.files[0].name;
+	  }
+	}
+	
+//	========================= [2] ==============================
+
+	// Span
+	var span2 = document.getElementsByClassName('upload-path2');
+	// Button
+	var uploader2 = document.getElementsByName('upload2');
+	// On change
+	for( item in uploader2 ) {
+	  // Detect changes
+	  uploader2[item].onchange = function() {
+	    // Echo filename in span
+	    span2[0].innerHTML = this.files[0].name;
+	  }
+	}
+
+//	========================= [3] ==============================
+
+
+	// Span
+	var span3 = document.getElementsByClassName('upload-path3');
+	// Button
+	var uploader3 = document.getElementsByName('upload3');
+	// On change
+	for( item in uploader3 ) {
+	  // Detect changes
+	  uploader3[item].onchange = function() {
+	    // Echo filename in span
+	    span3[0].innerHTML = this.files[0].name;
+	  }
+	}
+	
+	
+//	========================= [4] ==============================
+
+	// Span
+	var span4 = document.getElementsByClassName('upload-path4');
+	// Button
+	var uploader4 = document.getElementsByName('upload4');
+	// On change
+	for( item in uploader4 ) {
+	  // Detect changes
+	  uploader4[item].onchange = function() {
+	    // Echo filename in span
+	    span4[0].innerHTML = this.files[0].name;
+	  }
+	}
+	
+}
+
+
+
+function setFooterBottom()
+{
+   var docHeight = $(window).height();
+   var footerHeight = $('#footer').height();
+   var footerTop = $('#footer').position().top + footerHeight;
+
+   if (footerTop < docHeight) {
+    $('#footer').css('margin-top', 10+ (docHeight - footerTop) + 'px');
+   }
+}
+
+function backTotop(){
+
+var offset = 350;
+var duration = 300;
+$(window).scroll(function() {
+
+if ($(this).scrollTop() > offset) {
+           $('.back-to-top').fadeIn(duration);
+       } else {
+           $('.back-to-top').fadeOut(duration);
+       }
+
+});
+
+$('.back-to-top').click(function(event) {
+       event.preventDefault();
+       $('html, body').animate({scrollTop: 0}, duration);
+       return false;
+});
+
+
+}

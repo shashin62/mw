@@ -8,7 +8,7 @@
     <meta name="robots" content="index, follow">
     <meta name="description" content="Buy 3D Printed Personalized Gifts, Customized Corporate Gifts, Home Decor, 3D Printed Jewellery, Gifts for all occasions, events, festivals & more with our online 3D Printing service in Mumbai, India at MakeWhale." />
     <meta name="keywords" content="3D printing technology, 3D printing in india, 3D printed jewellery, 3D products, 3D decoration, buy 3D printed objects, 3D-printed home decor, top 3d printing company india, best 3d printing company india,  3D printed office accessories," />
-	<link rel="canonical" href="http://www.makewhale.com" />
+	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>" />
 	<meta name="p:domain_verify" content="e227b815d41a1729e3823bd23b0da11b"/>
     	<?php include("includes/include_css1.php") ?>
     	
@@ -250,21 +250,21 @@
         <div class="col-md-12" style="padding:0px;">
 		<h4 class=" text-center banner-overlay-heading" style="color: #000 ! important; background-color: #ededed; width: 100%; margin-bottom: 0px !important; padding: 10px 0 10px 0;">MEDIA&nbsp;</h4>
           <p class="text-center" style="background-color:#ededed; padding:10px 0px; margin-bottom: 0px !important; border-top: 1px solid #cacaca;">
-            <a href="http://www.makewhale.com/media/press.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/3D_printing_industry.png" alt="" style="padding-right: 30px;"></a>
-            <a href="http://www.makewhale.com/media/press.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/media/press.php" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/3D_printing_industry.png" alt="" style="padding-right: 30px;"></a>
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/media/press.php" target="_blank">
             <img src="img/ADLogo.png" alt="" style="padding-right: 30px;">
             </a>
-            <a href="http://www.makewhale.com/media/press.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/media/press.php" target="_blank">
             <img src="img/ht_button.png" alt="" style="padding-right: 30px;">
             </a>
-			<!--<a href="http://www.makewhale.com/media/press.php" target="_blank">
+			<!--<a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/media/press.php" target="_blank">
             <img src="img/Brand_BrownPaperBag_289.png" alt="" style="padding-right: 30px;">
             </a>-->
 			
-            <a href="http://www.makewhale.com/media/press.php" target="_blank">
+            <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/media/press.php" target="_blank">
            <img src="img/Mint.png" alt="" style="padding-right: 30px;">
             </a>
-			 <a href="http://www.makewhale.com/media/press.php" target="_blank">
+			 <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/media/press.php" target="_blank">
            <img src="img/vogue.png" alt="" style="padding-right: 30px;">
             </a>
             </p>

@@ -4,7 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
     <head>
-    <link rel="canonical" href="http://www.makewhale.com/legal.php" />
+    <link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/legal.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>
@@ -546,7 +546,7 @@ We may be required from time to time to disclose your personal information to Go
     		TERMS &amp; CONDITIONS
     	</p>
     	<p class="header-text-small">
-    	The <a href="www.makewhale.com" style="color: #EE693C;text-decoration: none;">www.makewhale.com</a> website ("Website") is the official website ofMakewhale that is owned and operated by MakeWhale Designs Private Limited ("MakeWhale"), a company incorporated under the laws of India, with its registered office at 603/604 Niranjan, 99 Marine Drive, Mumbai 400002.</p><br>
+    	The <a href="<?php echo $_SERVER['HTTP_HOST']; ?>" style="color: #EE693C;text-decoration: none;"><?php echo $_SERVER['HTTP_HOST']; ?></a> website ("Website") is the official website ofMakewhale that is owned and operated by MakeWhale Designs Private Limited ("MakeWhale"), a company incorporated under the laws of India, with its registered office at 603/604 Niranjan, 99 Marine Drive, Mumbai 400002.</p><br>
 <p class="header-text-small" style="color: #EE693C;">
    	PRICE
 </p>
@@ -577,7 +577,7 @@ The user/client acknowledges and agrees that it has no ownership or other rights
 
 The users/clients agree that nothing in this Agreement is to be construed to grant or imply to them any rights with respect to use of these designs and concepts for any commercial use or production. MakeWhale shall have the right to seek legal redressal including injunction of use of its designs and client/user shall indemnify or/and return all profits made by unauthorized use of its designs and products.<br>
 Makewhale only collects personal information about you (for example your name, address, telephone number, email address and credit card details) when you specifically provide us with such information on a voluntary basis, for example when purchasing or enquiring about products online. Any personal information we collect via our web site will never be released or sold to any companies or individuals outside of Makewhale or our authorized partner companies.<br>
-We will not share your personal information for marketing or any other purposes without your consent unless where required by law. If you have registered your interest with www.makewhale.comand/or any of our associated companies, and thereby given your consent, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you.<br>
+We will not share your personal information for marketing or any other purposes without your consent unless where required by law. If you have registered your interest with <?php echo $_SERVER['HTTP_HOST'].'/mw' ?>and/or any of our associated companies, and thereby given your consent, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you.<br>
 The terms and conditions herein shall apply equally to both the singular and plural form of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine and feminine. The words "include", "includes" and "including" shall be deemed to be followed by the phrase "without limitation". Unless the context otherwise requires, the terms "herein", "hereof", "hereto", "hereunder" and words of similar import refer to this Agreement as a whole</p><br>
 
 <p class="header-text-small" style="color: #EE693C;">

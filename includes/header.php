@@ -19,27 +19,27 @@
         <div id="navbar" class="navbar-collapse collapse " style="margin-top: 6px;">
           <ul class="nav navbar-nav navbar-right" id="nav-menu-ul">
 	      	<li>
-	       		<a href="http://www.makewhale.com/about-us.php">
+	       		<a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/about-us.php">
 	        		About
 	       		</a>
 	      	</li>
 	      	<li>
-	       		<a href="http://www.makewhale.com/how-it-works.php">
+	       		<a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/how-it-works.php">
 	        		How It Works
 	       		</a>
 	      	</li>
 	      	<li>
-	       		<a href="http://www.makewhale.com/our-work.php">
+	       		<a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/our-work.php">
 	        		Our Work
 	       		</a>
 	      	</li>
 	      	<li>
-	       		<a href="http://www.makewhale.com/submitYourIdea.php">
+	       		<a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/submitYourIdea.php">
 	        		Submit Your Idea
 	       		</a>
 	      	</li>
 	      	<li>
-	       		<a href="http://www.makewhale.com/contact-us.php">
+	       		<a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/contact-us.php">
 	        		Contact
 	       		</a>
 	      	</li>

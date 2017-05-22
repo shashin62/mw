@@ -19,7 +19,7 @@
         <div id="navbar" class="navbar-collapse collapse " style="margin-top: 6px;">
           <ul class="nav navbar-nav navbar-right" id="nav-menu-ul">
 	      	<li>
-	       		<a href="http://www.makewhale.com/about-us.php">
+	       		<a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/about-us.php">
 	        		About
 	       		</a>
 	      	</li>

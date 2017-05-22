@@ -4,7 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
     <head>
-	<link rel="canonical" href="http://www.makewhale.com/careers.php" />
+	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/careers.php" />
     
     	<?php include("includes/include_css1.php") ?>
     	

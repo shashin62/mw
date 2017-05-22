@@ -7,7 +7,7 @@
     <title>Buy Unique Diwali, Christmas, Valentine Day Gifts Online - MakeWhale</title>    
     <meta name="description" content="Shop Unique Gifts for Diwali, Christmas, Valentine Day Online at MakeWhale. Choose gifts for mom, dad, brother, sister etc for any occasion. We deliver gifts all over India." />
     <meta name="keywords" content="diwali gifts online, unique diwali gifts, christmas gifts, christmas gift ideas, valentine gift for husband, gifts for your loved one, valentine gift for wife, valentine gift for boyfriend, gifts for valentines day, valentine gifts online, unique valentines day gifts " />
-	<link rel="canonical" href="http://www.makewhale.com/products/occasion-based.php" />
+	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/occasion-based.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>
@@ -447,7 +447,7 @@
             <div class="col-lg-5 col-md-5 col-sm-5" style="padding:0px; border-right:1px solid #333;">
                 <p class="text-center header-text small-tx-circle">
                 <span class="first-text">Customize these products</span><br>    
-                <a class="btn btn-danger hvr-push dng-btn sod" href="http://www.makewhale.com/contact-us.php#order-form" role="button" style="margin-top: 18px;">
+                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/contact-us.php#order-form" role="button" style="margin-top: 18px;">
                 ORDER NOW
                 </a>
                 </p>
@@ -456,7 +456,7 @@
             <div class="container-fluid box-top-space visible-xs"></div>
                 <p class="text-center header-text small-tx-circle">
                 <span class="first-text">Design your product</span><br>
-                <a class="btn btn-danger hvr-push dng-btn sod" href="http://www.makewhale.com/submitYourIdea.php" role="button" style="margin-top: 18px;">
+                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/submitYourIdea.php" role="button" style="margin-top: 18px;">
                 START CREATING
                 </a>
                 </p>
@@ -469,7 +469,7 @@
             <div class="col-lg-5 col-md-5 col-sm-5 col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
                 <p class="text-center header-text small-tx-circle">
                 <span class="first-text">Customize these products</span><br>    
-                <a class="btn btn-danger hvr-push dng-btn sod" href="http://www.makewhale.com/contact-us.php#order-form" role="button" style="margin-top: 18px;">
+                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/contact-us.php#order-form" role="button" style="margin-top: 18px;">
                 ORDER NOW
                 </a>
                 </p>
@@ -483,7 +483,7 @@
             <div class="container-fluid box-top-space visible-xs"></div>
                 <p class="text-center header-text small-tx-circle">
                 <span class="first-text">Design your product</span><br>
-                <a class="btn btn-danger hvr-push dng-btn sod" href="http://www.makewhale.com/submitYourIdea.php" role="button" style="margin-top: 18px;">
+                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/submitYourIdea.php" role="button" style="margin-top: 18px;">
                 START CREATING
                 </a>
                 </p>
