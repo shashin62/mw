@@ -8,7 +8,7 @@
     <meta name="description" content="Buy 3D printed jewelry online in Mumbai and all over India at MakeWhale. Check out our 3D jewellery designs or design your own custom/personalized jewellery and we will create it for you." />
     <meta name="keywords" content="3D printed jewellery, 3D jewellery designs, personalised jewellery, custom jewelry, 
 3D printing in Mumbai, 3D printing in India, customized jewellery" />
-<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/unique-jewellery.php" />
+<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/unique-jewellery.php" />
         <?php include("includes/include_css1.php") ?>
         
         <style>
@@ -540,7 +540,7 @@
             <div class="col-lg-5 col-md-5 col-sm-5" style="padding:0px; border-right:1px solid #333;">
                 <p class="text-center header-text small-tx-circle">
                 <span class="first-text">Customize these products</span><br>    
-                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/contact-us.php#order-form" role="button" style="margin-top: 18px;">
+                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/contact-us.php#order-form" role="button" style="margin-top: 18px;">
                 ORDER NOW
                 </a>
                 </p>
@@ -549,7 +549,7 @@
             <div class="container-fluid box-top-space visible-xs"></div>
                 <p class="text-center header-text small-tx-circle">
                 <span class="first-text">Design your product</span><br>
-                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/submitYourIdea.php" role="button" style="margin-top: 18px;">
+                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/submitYourIdea.php" role="button" style="margin-top: 18px;">
                 START CREATING
                 </a>
                 </p>
@@ -562,7 +562,7 @@
             <div class="col-lg-5 col-md-5 col-sm-5 col-lg-offset-1 col-md-offset-1 col-sm-offset-1">
                 <p class="text-center header-text small-tx-circle">
                 <span class="first-text">Customize these products</span><br>    
-                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/contact-us.php#order-form" role="button" style="margin-top: 18px;">
+                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/contact-us.php#order-form" role="button" style="margin-top: 18px;">
                 ORDER NOW
                 </a>
                 </p>
@@ -576,7 +576,7 @@
             <div class="container-fluid box-top-space visible-xs"></div>
                 <p class="text-center header-text small-tx-circle">
                 <span class="first-text">Design your product</span><br>
-                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/submitYourIdea.php" role="button" style="margin-top: 18px;">
+                <a class="btn btn-danger hvr-push dng-btn sod" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/submitYourIdea.php" role="button" style="margin-top: 18px;">
                 START CREATING
                 </a>
                 </p>

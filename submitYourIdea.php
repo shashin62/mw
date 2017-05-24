@@ -8,7 +8,7 @@
     <meta name="title" content="Design your own personalized gifts & 3D Print your ideas at MakeWhale" />
     <meta name="description" content="Have an idea or want to 3D print your own 3D product? Send us the detailed description of your idea by just filling out the short form & MakeWhale will print it for you." />
     <meta name="keywords" content="customised gifts Online, personlized gifts india, create gift, Unique gift ideas,  wedding gift ideas, corporate gift ideas, customised wedding gift ideas, personalized wedding gift ideas, customized gift ideas" />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/submitYourIdea.php" />
+	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/submitYourIdea.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>

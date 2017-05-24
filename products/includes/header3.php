@@ -29,11 +29,11 @@
 	        		Our Work <span class="caret"></span>
 	       		</a>
 	       		<ul class="dropdown-menu">
-      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/personalized_gifts.php">Personalized Gifts</a></li>
-      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/corporate_gifts.php">Corporate Gifts</a></li>
-      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/Unique_Jewellery.php">Unique Jewellery</a></li>
-      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/Event_Specific_Gifts.php">Event-Specific Gifts</a></li>
-      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/Occasion_Based.php">Occasion Based</a></li>
+      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/personalized_gifts.php">Personalized Gifts</a></li>
+      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/corporate_gifts.php">Corporate Gifts</a></li>
+      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/Unique_Jewellery.php">Unique Jewellery</a></li>
+      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/Event_Specific_Gifts.php">Event-Specific Gifts</a></li>
+      <li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/Occasion_Based.php">Occasion Based</a></li>
     </ul>
 	      	</li>
 	      	<li>

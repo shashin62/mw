@@ -8,7 +8,7 @@
      <meta name="title" content="Shop for 3D printed products or Design your own Customized gifts - MakeWhale" />
     <meta name="description" content="Order 3D printed personalized corporate gifts,  bespoke jewelry, office accessories & other unique gift ideas & products online. Design your own customized 3D printed products." />
     <meta name="keywords" content="3D print service, 3D printed jewelry, customized gifts, personalised gifts, 3D printed objects,  3D printing service, build your own 3D printer, 3D home decor , 3D printed objects, wedding gift ideas, 3d printing company india, best 3d printing india, " />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/our-work.php" />
+	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/our-work.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>
@@ -219,7 +219,7 @@
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 col-lg-offset-0 col-md-offset-0 col-sm-offset-0 col-xs-offset-0" style="padding-left: 0;padding-right: 0;">
                 <div class="outer-img-container">
                 
-                <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/personalized-gifts.php" title="Personalized Gifts" target="_self">
+                <a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/personalized-gifts.php" title="Personalized Gifts" target="_self">
                 
                 <div class="inner-img-container">
                     <p class="text-center"><strong>Personalized Gifts</strong><br/><span style="font-size:12px;"></span></p>
@@ -241,7 +241,7 @@
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 col-lg-offset-0 col-md-offset-0 col-sm-offset-0 col-xs-offset-0" style="padding-left: 0;padding-right: 0;">
                 <div class="outer-img-container">
                 
-                <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/corporate-gifts.php" title="Corporate Gifts" target="_self">
+                <a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/corporate-gifts.php" title="Corporate Gifts" target="_self">
                 
                 <div class="inner-img-container">
                     <p class="text-center"><strong>Corporate Gifts</strong><br/><span style="font-size:12px;"></span></p>
@@ -260,7 +260,7 @@
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 col-lg-offset-0 col-md-offset-0 col-sm-offset-0 col-xs-offset-0" style="padding-left: 0;padding-right: 0;">
                 <div class="outer-img-container">
                 
-                <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/unique-jewellery.php" title="Unique Jewellery" target="_self">
+                <a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/unique-jewellery.php" title="Unique Jewellery" target="_self">
             
                 
                 <div class="inner-img-container">
@@ -280,7 +280,7 @@
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 col-lg-offset-0 col-md-offset-0 col-sm-offset-0 col-xs-offset-0" style="padding-left: 0;padding-right: 0;">
                 <div class="outer-img-container">
                 
-                <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/event-specific-gifts.php" title="Event-Specific Gifts" target="_self">
+                <a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/event-specific-gifts.php" title="Event-Specific Gifts" target="_self">
                 
                 <div class="inner-img-container">
                         <p class="text-center"><strong>Event-Specific Gifts</strong><br/><span style="font-size:12px;"></span></p>
@@ -318,7 +318,7 @@
             <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 col-lg-offset-0 col-md-offset-0 col-sm-offset-0 col-xs-offset-0" style="padding-left: 0;padding-right: 0;">
                 <div class="outer-img-container">
                 
-                <a href="http://<?php echo $_SERVER['HTTP_HOST'].'/mw' ?>/products/occasion-based.php" title="Occasion-Based" target="_self">
+                <a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/occasion-based.php" title="Occasion-Based" target="_self">
                 
                 <div class="inner-img-container">
                     <p class="text-center"><strong>Occasion-Based</strong><br/><span style="font-size:12px;"></span></p>
