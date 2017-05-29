@@ -4,7 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
     <head>
-        <title>3D Printing Service in Mumbai, India | Buy 3D Printed Customized Gifts, Corporate Gifts - MakeWhale</title>    
+        <title>Shop for 3D printed products or Design your own Customized gifts - MakeWhale</title>    
         <meta name="robots" content="index, follow">
         <meta name="description" content="Buy 3D Printed Personalized Gifts, Customized Corporate Gifts, Home Decor, 3D Printed Jewellery, Gifts for all occasions, events, festivals & more with our online 3D Printing service in Mumbai, India at MakeWhale." />
         <meta name="keywords" content="3D printing technology, 3D printing in india, 3D printed jewellery, 3D products, 3D decoration, buy 3D printed objects, 3D-printed home decor, top 3d printing company india, best 3d printing company india,  3D printed office accessories," />
@@ -85,7 +85,6 @@
                     box-shadow: 0 6px 12px rgba(0,0,0,.175);
                 }
             }
-            }
             @media(max-width: 640px){
                 .small-tx-circle{
                     font-size: 23px;
@@ -129,82 +128,11 @@
 
         <?php include('includes/header2.php'); ?>
 
-        <!-- Header Carousel -->
-        <header id="myCarousel" class="carousel slide">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1"></li>
-                <li data-target="#myCarousel" data-slide-to="2"></li>
-                <li data-target="#myCarousel" data-slide-to="3"></li>
-            </ol>
-
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner">
-                <div class="item active">
-                    <div class="fill home1" title="Unique 3D printed ideas">
-
-                        <div class="carousel-caption animated fadeIn">
-                            <h1 class="slider-cap">
-                                <span>Rediscover</span><br>
-                                Gifting
-                            </h1>
-                        </div>
-
-                    </div>
-
-                </div>
-                <div class="item">
-                    <div class="fill home2">
-
-                        <div class="carousel-caption animated fadeIn">
-                            <h1 class="slider-cap">
-                                <span>For</span><br>
-                                Every Occasion
-                            </h1>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="fill home3">
-
-                        <div class="carousel-caption animated fadeIn">
-                            <h1 class="slider-cap">
-                                <span>Tailored</span><br>
-                                For You
-                            </h1>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="fill home4">
-
-                        <div class="carousel-caption animated fadeIn">
-                            <h1 class="slider-cap">
-                                <span>Designed</span><br>
-                                From Scratch
-                            </h1>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-
-            <!-- Controls -->
-            <!--<a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                <span class="icon-prev"></span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                <span class="icon-next"></span>
-            </a>-->
-        </header>
 
         <!--Divider for Premium-->
 
         <div class="container-fluid bar text-center" style="margin-bottom: 120px;">
-            <h3 class="p3p" style="color: #FFFFFF">PREMIUM 3D PRINTED GIFTS</h3>
+            <h3 class="p3p" style="color: #FFFFFF">&nbsp;</h3>
         </div>
 
         <!-- Main jumbotron for a primary marketing message or call to action -->
@@ -214,31 +142,33 @@
             <div class="row" style="">
                 <div class="col-md-6" style="padding-right: 50px;padding-left: 50px;margin-bottom: 60px;">
                     <div class="text-center">
-                        <a href="our-work.php"><button class="g-img" style="margin-left: 30px;"></button></a>
+                        <a href="customized-jewellery.php"><button class="g-img" style="margin-left: 30px;"></button></a>
                     </div>
                     <h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
-                        our work
+                        Customized Jewellery
                     </h2>
                     <h2 class="text-center text-muted visible-xs small-tx-circle" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';font-size: 25px;margin-left: 30px;margin-right: 30px;">
-                        our work
+                        Customized Jewellery
                     </h2>
-                    <p class="text-center" style="margin-top: 20px;font-family: 'questrialregular';">A collection of products designed by us to give you a sense of the infinite possibilities we offer.  </p>
+                    <p class="text-center" style="margin-top: 20px;font-family: 'questrialregular';">&nbsp; <!--description here--></p>
                     <p class="text-center" style="margin-top: 40px;">
-                        <a style="font-family: 'lubalgraph_bk_btbook';letter-spacing: 2px;" class="btn btn-danger" href="our-work.php" role="button">VIEW</a></p>
+                        <a style="font-family: 'lubalgraph_bk_btbook';letter-spacing: 2px;" class="btn btn-danger" href="mens-jewellery.php" role="button">Men's Jewellery</a>&nbsp;&nbsp;
+                        <a style="font-family: 'lubalgraph_bk_btbook';letter-spacing: 2px;" class="btn btn-danger" href="womens-jewellery.php" role="button">Women's Jewellery</a>
+                    </p>
                 </div>
                 <div class="col-md-6" style="padding-left: 50px;padding-right: 50px;">
                     <div class="text-center" id="s-cart">
-                        <a href="how-it-works.php"><button class="g-img1"></button></a>
+                        <a href="personalized-gifts.php"><button class="g-img1"></button></a>
                     </div>
                     <h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
-                        how it works
+                        Personalized Gifts
                     </h2>
                     <h2 class="text-center text-muted visible-xs small-tx-circle stc" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';font-size: 25px;margin-left: 30px;margin-right: 30px;">
-                        how it works
+                        Personalized Gifts
                     </h2>
-                    <p class="text-center" style="margin-top: 20px;font-family: 'questrialregular';">A quick guide to how we work and how you can order a personalized 3D printed product. </p>
+                    <p class="text-center" style="margin-top: 20px;font-family: 'questrialregular';">&nbsp; <!--description here--></p>
                     <p class="text-center" style="margin-top: 40px;">
-                        <a style="font-family: 'lubalgraph_bk_btbook';letter-spacing: 2px;" class="btn btn-danger" href="how-it-works.php" role="button">VIEW</a>
+                        &nbsp;
                     </p>
                 </div>
             </div>
