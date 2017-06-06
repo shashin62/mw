@@ -37,7 +37,7 @@
                         <li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/occasion-based.php">Occasion-Based</a></li>
                     </ul>
                 </li>
-                <li class="dropdown">
+                <!--li class="dropdown">
                     <a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/shop-now.php">
                         Shop Now</a><a href="#" class="active-our-work" role="button" aria-haspopup="true" aria-expanded="false" title="" tmp_title="" style="width: 20px; position: absolute;
                                    top: 0; left: 79px;"><span class="caret"></span>
@@ -46,7 +46,7 @@
                         <li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/customized-jewellery.php">Customized Jewelry</a></li>
                         <li><a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/personalized-gifts.php">Personalized Gifts</a></li>
                     </ul>
-                </li>
+                </li-->
                 <li>
                     <a href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/submitYourIdea.php" class="header1a active-sub-idea">
                         Submit Your Idea
