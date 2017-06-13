@@ -4,3 +4,4 @@
 User-agent: *
 Disallow: /P123
 Disallow: /Q123
+Disallow: /store
