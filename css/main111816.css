@@ -198,7 +198,7 @@ button:hover
 	
 .navbar-inverse
 {
-	background-color: transparent;
+	background-color: hsla(0, 100%, 100%, 0.9);
 	background-image: none;
 	border-bottom: 0px;
 	color: #000;
@@ -229,7 +229,7 @@ button:hover
 }
 .navbar-inverse .navbar-nav li a
 {
-	color: #ffffff;
+	color: #4B4B4B;
 	font-size: 18px;
 	font-family: 'Lato', sans-serif;
 	font-weight: 300;
@@ -286,6 +286,54 @@ button:hover
 	color: #4b4b4b !important;
 }
 
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    font-size:16px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-size:16px;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown > .dropdown-content a {
+	font-size:16px;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.active>a {
+    /* background-image: -webkit-linear-gradient(top,#080808 0,#0f0f0f 100%); */
+   /* background-image: -o-linear-gradient(top,#080808 0,#0f0f0f 100%);*/
+    /* background-image: -webkit-gradient(linear,left top,left bottom,from(#080808),to(#0f0f0f)); */
+    /* background-image: linear-gradient(to bottom,#080808 0,#0f0f0f 100%); */
+   /* filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff080808', endColorstr='#ff0f0f0f', GradientType=0);
+    background-repeat: repeat-x;*/
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-image:none;
+}
 
 /* 	--------------------------------------------------
 	Slider Design
@@ -451,7 +499,7 @@ a.carousel-control span
 	}
 	.about-banner{
 		margin-top: 57px;
-		height: 450px;
+		height: auto;
 /*		border: 1px solid #26ff00;*/
 		width: 100%;
 		position: relative;
