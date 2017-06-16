@@ -525,8 +525,8 @@ a.carousel-control span
 
 	.g-img3{
 		background-image: url('../img/jewelry_image.png');
-		width: 159px;
-		height: 70px;
+		width: 300px;
+		height: 136px;
 		cursor: pointer;
 		border: none;
 		outline: none;
@@ -538,8 +538,8 @@ a.carousel-control span
 	}
 	.g-img4{
 		background-image: url('../img/gift_image.png');
-		width: 152px;
-		height: 72px;
+		width: 300px;
+		height: 148px;
 		cursor: pointer;
 		border: none;
 		outline: none;
