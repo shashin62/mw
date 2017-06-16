@@ -144,12 +144,12 @@
                     <div class="text-center">
                         <a href="customized-jewellery.php"><button class="g-img3" style="margin-left: 30px;"></button></a>
                     </div>
-                    <h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
+                    <!--h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
                         Customized Jewellery
                     </h2>
                     <h2 class="text-center text-muted visible-xs small-tx-circle" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';font-size: 25px;margin-left: 30px;margin-right: 30px;">
                         Customized Jewellery
-                    </h2>
+                    </h2-->
                     <p class="text-center" style="margin-top: 20px;font-family: 'questrialregular';">&nbsp; <!--description here--></p>
                     <p class="text-center" style="margin-top: 40px;">
                         <a style="font-family: 'lubalgraph_bk_btbook';letter-spacing: 2px;" class="btn btn-danger" href="mens-jewellery.php" role="button">Men's Jewellery</a>&nbsp;&nbsp;
@@ -160,12 +160,12 @@
                     <div class="text-center" id="s-cart">
                         <a href="personalized-gifts.php"><button class="g-img4"></button></a>
                     </div>
-                    <h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
+                    <!--h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
                         Personalized Gifts
                     </h2>
                     <h2 class="text-center text-muted visible-xs small-tx-circle stc" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';font-size: 25px;margin-left: 30px;margin-right: 30px;">
                         Personalized Gifts
-                    </h2>
+                    </h2-->
                     <p class="text-center" style="margin-top: 20px;font-family: 'questrialregular';">&nbsp; <!--description here--></p>
                     <p class="text-center" style="margin-top: 40px;">
                         &nbsp;
