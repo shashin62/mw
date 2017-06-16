@@ -526,30 +526,30 @@ a.carousel-control span
 	.g-img3{
 		background-image: url('../img/jewelry_image.png');
 		width: 300px;
-		height: 136px;
+		height: 300px;
 		cursor: pointer;
 		border: none;
 		outline: none;
 		background-color: transparent;
 	}
-	.g-img3:hover{
-/*		content: url('../img/work1-01.png');*/
+/*	.g-img3:hover{
+		content: url('../img/work1-01.png');
 		background-position: 0px -73px;
-	}
+	}*/
 	.g-img4{
 		background-image: url('../img/gift_image.png');
 		width: 300px;
-		height: 148px;
+		height: 300px;
 		cursor: pointer;
 		border: none;
 		outline: none;
 		background-color: transparent;
 	}
-	.g-img4:hover{
-/*		content: url('../img/work1-01.png');*/
+/*	.g-img4:hover{
+		content: url('../img/work1-01.png');
 		background-position: 0px -73px;
 	}
-
+*/
 	.fa-shopping-cart{
 		font-size: 49px;color: #E6E6E7;margin-top: 52px;
 	}
