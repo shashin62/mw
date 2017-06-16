@@ -142,7 +142,7 @@
             <div class="row" style="">
                 <div class="col-md-6" style="padding-right: 50px;padding-left: 50px;margin-bottom: 60px;">
                     <div class="text-center">
-                        <a href="customized-jewellery.php"><button class="g-img" style="margin-left: 30px;"></button></a>
+                        <a href="customized-jewellery.php"><button class="g-img3" style="margin-left: 30px;"></button></a>
                     </div>
                     <h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
                         Customized Jewellery
@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-md-6" style="padding-left: 50px;padding-right: 50px;">
                     <div class="text-center" id="s-cart">
-                        <a href="personalized-gifts.php"><button class="g-img1"></button></a>
+                        <a href="personalized-gifts.php"><button class="g-img4"></button></a>
                     </div>
                     <h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
                         Personalized Gifts
