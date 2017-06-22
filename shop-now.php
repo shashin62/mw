@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-md-6" style="padding-left: 50px;padding-right: 50px;">
                     <div class="text-center" id="s-cart">
-                        <a href="personalized-gifts.php"><img src="/img/gift_image.png" class="g-img3"></a>
+                        <a href="/products/personalized-gifts.php"><img src="/img/gift_image.png" class="g-img3"></a>
                     </div>
                     <!--h2 class="text-center text-muted visible-lg visible-md visible-sm" style="border-bottom: 1px solid #30BAA4;padding-bottom: 20px; font-family: 'lubalgraph_bk_btbook';margin-left: 80px;margin-right: 80px;">
                         Personalized Gifts
