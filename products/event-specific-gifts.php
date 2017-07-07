@@ -7,7 +7,7 @@
     <title>Unique Birthday Gifts, Wedding Anniversary Gifts Online - MakeWhale</title>   
     <meta name="description" content="Buy unique wedding / marriage anniversary, Birthday Gifts for Men and Womens Online at MakeWhale. Check out our gifts collection that are perfect for any ocassion." />
     <meta name="keywords" content="unique wedding gifts,unique birthday gifts, birthday gifts for men,  gifts for anniversary, marriage anniversary gifts, personalized anniversary gifts, birthday gifts online, wedding anniversary gifts, gifts for wedding anniversary, gifts for mom, gifts for dad, gifts for brother , gifts for sister, unique gift ideas, gift solutions" />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/event-specific-gifts.php" />
+	<link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/products/event-specific-gifts.php" />
         <?php include("includes/include_css1.php") ?>
         
         <style>

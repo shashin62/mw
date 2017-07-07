@@ -4,7 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
     <head>
-    <link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/legal.php" />
+    <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/legal.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>

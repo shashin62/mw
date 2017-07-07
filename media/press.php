@@ -7,7 +7,7 @@
     <title>Press Media | News - MakeWhale</title>
     <meta name="description" content="Find out the latest news & information about MakeWhale . Contact us to know more about our 3D printing service. " />
     <meta name="keywords" content="Newsfeed" />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/media/press.php" />
+	<link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/media/press.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>

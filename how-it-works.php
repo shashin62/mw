@@ -8,7 +8,7 @@
     <meta name="title" content="How It Works - How can you 3D Print your design or idea with MakeWhale" />
     <meta name="description" content="Learn how you can 3D print your ideas in three simple steps. Contact MakeWhale today to get your product 3D printed in a variety of materials." />
     <meta name="keywords" content="3D printing, 3D printing mumbai, 3D printing in india, 3D printed products, 3D printing files, stl files printing, 3d print your file, fdm, prototype, best 3d printing india, leading 3d printing india, top 3d printing company india, best 3d printing company india" />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/how-it-works.php" />
+	<link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/how-it-works.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>

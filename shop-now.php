@@ -8,7 +8,7 @@
         <meta name="robots" content="index, follow">
         <meta name="description" content="Buy 3D Printed Personalized Gifts, Customized Corporate Gifts, Home Decor, 3D Printed Jewellery, Gifts for all occasions, events, festivals & more with our online 3D Printing service in Mumbai, India at MakeWhale." />
         <meta name="keywords" content="3D printing technology, 3D printing in india, 3D printed jewellery, 3D products, 3D decoration, buy 3D printed objects, 3D-printed home decor, top 3d printing company india, best 3d printing company india,  3D printed office accessories," />
-        <link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST']; ?>" />
+        <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST']; ?>" />
         <meta name="p:domain_verify" content="e227b815d41a1729e3823bd23b0da11b"/>
         <?php include("includes/include_css1.php") ?>
 

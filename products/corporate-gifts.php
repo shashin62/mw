@@ -7,7 +7,7 @@
     <title>Unique Corporate Gifts Ideas, Best Corporate Gift Online - MakeWhale</title>    
     <meta name="description" content="Shop unique Corporate gifts online at MakeWhale for any occasion or events. We offer Personalized / Customized Corporate gifts and deliver all over India. " />
     <meta name="keywords" content="diwali gifts online, corporate diwali gifts, corporate gifts for diwali, best corporate gifts, corporate gift ideas, corporate gifting, corporate gift items, unique corporate gifts, personalized corporate gifts,  3D printing in India " />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/corporate-gifts.php" />
+	<link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/products/corporate-gifts.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>

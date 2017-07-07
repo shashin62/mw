@@ -7,7 +7,7 @@
     <title>Buy Unique Diwali, Christmas, Valentine Day Gifts Online - MakeWhale</title>    
     <meta name="description" content="Shop Unique Gifts for Diwali, Christmas, Valentine Day Online at MakeWhale. Choose gifts for mom, dad, brother, sister etc for any occasion. We deliver gifts all over India." />
     <meta name="keywords" content="diwali gifts online, unique diwali gifts, christmas gifts, christmas gift ideas, valentine gift for husband, gifts for your loved one, valentine gift for wife, valentine gift for boyfriend, gifts for valentines day, valentine gifts online, unique valentines day gifts " />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/occasion-based.php" />
+	<link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/products/occasion-based.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>

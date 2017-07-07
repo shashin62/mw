@@ -8,7 +8,7 @@
         <meta name="title" content="Shop for 3D printed products or Design your own Customized gifts - MakeWhale" />
         <meta name="description" content="Order 3D printed personalized corporate gifts,  bespoke jewelry, office accessories & other unique gift ideas & products online. Design your own customized 3D printed products." />
         <meta name="keywords" content="3D print service, 3D printed jewelry, customized gifts, personalised gifts, 3D printed objects,  3D printing service, build your own 3D printer, 3D home decor , 3D printed objects, wedding gift ideas, 3d printing company india, best 3d printing india, " />
-        <link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/our-work.php" />
+        <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/our-work.php" />
         <?php include("includes/include_css1.php") ?>
 
         <style>

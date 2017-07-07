@@ -8,7 +8,7 @@
     <meta name="description" content="Buy 3D printed jewelry online in Mumbai and all over India at MakeWhale. Check out our 3D jewellery designs or design your own custom/personalized jewellery and we will create it for you." />
     <meta name="keywords" content="3D printed jewellery, 3D jewellery designs, personalised jewellery, custom jewelry, 
 3D printing in Mumbai, 3D printing in India, customized jewellery" />
-<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/unique-jewellery.php" />
+<link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/products/unique-jewellery.php" />
         <?php include("includes/include_css1.php") ?>
         
         <style>

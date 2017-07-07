@@ -8,7 +8,7 @@
         <meta name="description" content="Contact us to 3D print your product or select a 3D printed product from our range of unique corporate gifts, personalized / customized gifts online at MakeWhale. " />
         <meta name="keywords" content="Contact Us" />
 
-        <link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/contact-us.php" />
+        <link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/contact-us.php" />
         <?php include("includes/include_css1.php") ?>
 
         <style>

@@ -7,7 +7,7 @@
     <title>About Us | 3D Printing in Mumbai & Across India | Gifts Online - MakeWhale</title>
 	<meta name="description" content="We offer 3D printing in Mumbai and across India. Buy 3D printed personalized products online at MakeWhale or 3D print your own product." />
     <meta name="keywords" content="About Us" />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/about-us.php" />
+	<link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/about-us.php" />
 
 	<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
     	<?php include("includes/include_css1.php") ?>

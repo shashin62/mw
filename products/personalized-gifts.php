@@ -7,7 +7,7 @@
     <title>Personalized, Customized Gifts Online in Mumbai, India - MakeWhale</title>    
     <meta name="description" content="Buy unique personalized / customized gifts for various occasions including Birthday, Anniversary, Weddings etc. online in Mumbai and all over India at MakeWhale." />
     <meta name="keywords" content="personalized wedding gifts, custom gifts,  3D printing in Mumbai, India,  customized gifts, personalised gift ideas, personalised gifts online, personalised birthday gifts, unique personalized gifts" />
-	<link rel="canonical" href="http://<?php echo $_SERVER['HTTP_HOST'] ?>/products/personalized-gifts.php" />
+	<link rel="canonical" href="https://<?php echo $_SERVER['HTTP_HOST'] ?>/products/personalized-gifts.php" />
     	<?php include("includes/include_css1.php") ?>
     	
     	<style>
